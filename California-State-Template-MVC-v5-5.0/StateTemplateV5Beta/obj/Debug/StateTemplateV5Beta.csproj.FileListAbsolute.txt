@@ -1,0 +1,202 @@
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\csc.exe
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\System.Collections.Immutable.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\System.Reflection.Metadata.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\vbc.exe
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe.config
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll.config
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.pdb
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\Antlr3.Runtime.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\Microsoft.Web.Infrastructure.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\Newtonsoft.Json.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Helpers.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Mvc.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Optimization.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Razor.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\WebGrease.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Helpers.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Mvc.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Optimization.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Razor.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\Antlr3.Runtime.pdb
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\bin\Newtonsoft.Json.xml
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.csprojResolveAssemblyReference.cache
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.dll
+D:\vvsprojects\StateTemplateV5Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.pdb
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\csc.exe
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\System.Collections.Immutable.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\System.Reflection.Metadata.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\vbc.exe
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe.config
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll.config
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.pdb
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\Antlr3.Runtime.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\Microsoft.Web.Infrastructure.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\Newtonsoft.Json.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Helpers.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Mvc.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Optimization.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Razor.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\WebGrease.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Helpers.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Mvc.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Optimization.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.Razor.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\Antlr3.Runtime.pdb
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\bin\Newtonsoft.Json.xml
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.csprojResolveAssemblyReference.cache
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.dll
+P:\rchan\StateTemplateV5Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.pdb
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\csc.exe
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\vbc.exe
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll.config
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\StateTemplateV5Beta.pdb
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\Antlr3.Runtime.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\Newtonsoft.Json.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Helpers.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Mvc.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Optimization.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Razor.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.WebPages.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\WebGrease.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Helpers.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Mvc.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Optimization.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.Razor.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.WebPages.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\Antlr3.Runtime.pdb
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\bin\Newtonsoft.Json.xml
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.csprojResolveAssemblyReference.cache
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.dll
+C:\Users\konstantin.koryaka\Documents\Visual Studio 2015\Projects\California-State-Template-MVC-v5-Beta\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.pdb
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\csc.exe
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\vbc.exe
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll.config
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\StateTemplateV5Beta.pdb
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Antlr3.Runtime.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Newtonsoft.Json.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Helpers.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Mvc.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Optimization.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Razor.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\WebGrease.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Helpers.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Mvc.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Optimization.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Razor.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Antlr3.Runtime.pdb
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Newtonsoft.Json.xml
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.csprojResolveAssemblyReference.cache
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.csproj.CoreCompileInputs.cache
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.dll
+C:\Users\MattI\source\repos\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.pdb
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\csc.exe
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\vbc.exe
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll.config
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\StateTemplateV5Beta.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\StateTemplateV5Beta.pdb
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Antlr3.Runtime.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Newtonsoft.Json.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Helpers.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Mvc.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Optimization.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Razor.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\WebGrease.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Helpers.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Mvc.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Optimization.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.Razor.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\System.Web.WebPages.Razor.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Antlr3.Runtime.pdb
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\bin\Newtonsoft.Json.xml
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.csprojResolveAssemblyReference.cache
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.csproj.CoreCompileInputs.cache
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.dll
+C:\Users\AlXnight-tablet\Documents\California-State-Template-MVC-v5-5.0\StateTemplateV5Beta\obj\Debug\StateTemplateV5Beta.pdb
